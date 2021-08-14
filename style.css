@@ -7,8 +7,10 @@ body{
 }
 
 #principal{
-    width: 900px;    
-    text-align: center;
+    width: 900px;
+    display: flex;
+    justify-content: center;
+    align-itens: center;
 }
 
 #menu{
