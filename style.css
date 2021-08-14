@@ -6,13 +6,17 @@ body{
     background: #d2d2c1 url('imagens/fundo.png');
 }
 
+.centralizar{
+    text-align: center;
+}
+
 #principal{
     width: 900px;   
 }
 
 #menu{
     background: #c5c5b2;
-    padding: 15px; /*aplica espaçamento interno*/
+    padding: 18px; /*aplica espaçamento interno*/
 
 }
 
