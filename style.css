@@ -7,10 +7,11 @@ body{
 }
 
 #principal{
-    width: 900px;
-    display: flex;
-    justify-content: center;
-    
+    width: 900px;   
+}
+
+#principal img{
+    text-align:center;
 }
 
 #menu{
