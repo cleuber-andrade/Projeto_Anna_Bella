@@ -7,12 +7,13 @@ body{
 }
 
 #principal{
-    width: 100%;   
+    width: 900px;    
+    text-align: center;
 }
 
 #menu{
     background: #c5c5b2;
-    padding: 15px; /*aplica espaçamento interno*/
+    padding: 18px; /*aplica espaçamento interno*/
 
 }
 
